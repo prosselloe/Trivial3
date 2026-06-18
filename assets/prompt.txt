@@ -1,0 +1,66 @@
+Davant qualsevol projecte de programari com aquest allotjat i mantingut amb Firebase Studio, desenvolupat en Flutter/Dart has d’actuar com un Senior Developer, que ha de tenir almenys una formació en Informàtica de Cicle Formatiu Superior i almanys 15 anys d’experiència, que depèn directament del Project Manager i Product Owner que soc jo, un Llicenciat i Enginyer en Informàtica de Gestió de la especialitat d’Intel·ligència Artificial i amb una experiència de gairebé de 40 anys!
+En estar en un entorn integrat Firebase Studio, tu pots i has de llegir el codi font existent i proposar directament els canvis, que jo aprovaré si ho consider oportú. En el teu paper de Senior Developer, no tens un coneixement de tot el projecte, per la qual cosa, has de ser humil i demanar ajuda quan se’t puguin plantejar dubtes.
+En el mon de la programació, mai has de fer servir el teu mode “artista” sinó sempre el mode teu “enginyer”. Això implica res d’anar a lo fàcil d’aplicar solucions que estadísticament es fan servir a altres llocs, res de fer suposicions sobre el possible funcionament del codi existent, sinó sempre treballar amb certeses, analitzant en profunditat el codi abans de proposar la seva correcció o millora.
+En aquest sentit, sempre has de fer estrictament el que et demana el Project Manager que és que té contacte directe amb el Product Owner, ja que ambdós soc jo, per la qual cosa, coneix perfectament les seves necessitats. Amb això es pretén que no entris en una espiral o bucle de pegats damunt pegats que no fan res més que fer perdre el temps a tots els implicats.
+Seguint amb la teva forma d’actuar, un bon Senior Developer gairebé sempre ha de ser capaç d’escriure qualsevol modificació de codi que funcioni a la primera. Si no és així, al tercer intent de correcció sense èxit, has de desfer els pegats que puguis haver fet, tornar a revisat el codi en profunditat, i tornar a fer una proposta diferent que hauria de funcionar a la primera. Tot això es torna a traduir bàsicament en que sempre actuis en mode “enginyer” i mai em mode “artista”. Aquí d’únic “artista” que hi pot haver soc jo!
+Només suggeriràs canvis quan el Project Manager t’ho demani explícitament, es a dir, una vegada que tenim el codi totalment operatiu passarem a una fase d’optimització de processos a la que si voldria propostes innovadores que puguis haver tret de la teva base de dades de projectes amb problemàtiques similars.
+Ho has entès tot i a patir d’ara actuaràs en conseqüència?
+
+https://prosselloe.wordpress.com/?p=11787
+# Un Trivial de la ciberseguretat per a totes les edats, gratuït i descarregable en PDF
+    PER @ALVY — 13 DE NOVEMBRE DE 2020
+    Aquest Trivial de la Ciberseguretat de l’Oficina de Seguretat de l’Internauta és una iniciativa simpàtica, que posa en targetes de preguntes sobre diferents temàtiques, la seguretat informàtica quotidiana. Es pot descarregar a PDF i imprimir directament; en total té 60 preguntes.
+    Les sis categories de rigor d’aquest Trivial són:
+    • Gestió de contrasenyes
+    • Compres en línia
+    • Xarxes socials i missatgeria instantània
+    • Protecció de dispositius
+    • Navegació segura
+    • Fraus en línia
+    Utilitzant les conegudes regles del Trivial Pursuit ®, tot consisteix a aconseguir els formatges en forma de ciberpunts; guanya qui aconsegueixi abans els sis formatgets o qui tengui més punts quan s’acabin les targetes. Estaria bé que tengués més preguntes, perquè 60 semblen poques; caldrà veure si ho amplien en el futur, o fins i tot que ho obrin a les aportacions de la gent a través d’Internet per potenciar-ho.
+    Per descomptat amb l’entreniment de la fórmula imprimir-i-retallar, i després amb el joc en si, encara que sigui breu, els més joves de la casa poden repassar algunes de les idees bàsiques relacionades amb la ciberseguretat personal.
+# Introducció al joc
+    Si heu arribat fins aquí, és perquè heu recorregut un llarg camí d’experiències positives per Internet, però també ple d’obstacles i amenaces que heu hagut de superar. Navegar per la xarxa no està exempt de riscos, però has demostrat que ets un usuari conscienciat i que no tens res a témer.
+    És el moment de posar-te a prova i mesurar els teus coneixements en ciberseguretat amb els amics. Qui serà l’usuari més conscienciat i protegit?
+    Molta sort!
+# Com es juga?
+    Els jugadors començaran col·locant les seves fitxes de jugador o Ciberfitxes al centre del tauler. El jugador que hagi tret el número més alt serà el primer a jugar. Haurà de llançar el dau i moure’s tantes caselles com indiqui el número que hagi sortit. No hi ha una direcció de caselles establerta, i podrà triar el camí a seguir.
+    En finalitzar el seu moviment, la fitxa haurà quedat en una casella amb un color i una categoria determinada. Un altre jugador, el que estigui assegut a la dreta, haurà d’agafar una targeta corresponent a aquesta categoria i plantejar la pregunta que hi hagi:
+    Si el jugador l’encerta, tornarà a llençar el dau i repetir el seu torn. Podrà fer-ho tantes vegades com preguntes encerti.
+    Si el jugador falla, el torn passarà al jugador següent.
+    Les caselles especials ofereixen l’oportunitat d’obtenir un Ciberpunt si el jugador encerta la pregunta. Un cop obtingut, passarà a ser una casella normal per a aquest jugador.
+## Com es guanya?
+    El jugador que aconsegueixi obtenir els sis Ciberpunts abans que la resta de jugadors, serà el guanyador del joc.
+    És un JOC de 2 a 4 jugadors
+# Contingut del joc
+## 1 Tauler
+    El joc es desenvoluparà sobre un tauler, el qual conté una sèrie de caselles al voltant. Cada casella és d’un color, representant a cada categoria. 6 d’aquestes caselles estaran ressaltades i correspondran a preguntes amb opció a Ciberpunt si el jugador respon correctament.
+## 60 Targetes amb preguntes sobre:
+    • Xarxes socials i missatgeria instantània
+    • Gestió de contrasenyes
+    • Compres en línia
+    • Fraus en línia
+    • Navegació segura
+    • Protecció de dispositius
+    Cada targeta facilita la resposta correcta a la pregunta amb una explicació breu.
+## 24 Ciberpunts
+    (4 targetes per cada categoria)
+    Es proporcionaran a l’usuari que contesti correctament una pregunta a la casella de Ciberpunts d’una categoria.
+## 4 Ciberfitxes
+    Fitxes que els jugadors utilitzaran per desplaçar-se pel tauler.
+
+Les caselles del tauler son molt grans i les fitxes dels jugadors son un simple ubicador. Podríem ajustar la mida de les caselles del tauler per tal que es pogués veure la major part del tauler en pantalla, 
+i que els ubicadors dels diferents jugadors tenguessin fitxes de colors com a un trivial normal?
+Les caselles especials dels ciberpunts just estan ressaltades amb un contorn groc, podríem incorporar-les qualque imatge relacionada amb la categoria per tal que es diferenciàssim millor de la resta de caselles?
+
+Hauríem de poder triar a quina casella volem anar després de tirar el dau. Ens podràs marcar les caselles possibles segons el valor del dau?
+El taulell hauria de ser circular, amb un punt central de partida i sis braços cap a l'exterior. El creuament dels braços amb el cercle exterior, haurien de ser les caselles de cibepunt.
+Als braços haurien de quedar només quatre caselles, i la resta haurien d'estar al cercle exterior. No hi pot haver cap casella que tengui la mateixa categoria en cap dels possibles sentits de recorregut de les fitxes. La situació de les categories a les caselles les pots fer de forma aleatòria.
+
+Degut a que el tauler és circular, ara no es mostren correctament les caselles a les que pot anar una ciberfitxa després de tirar el dau. Pots revisar el graf de connexió de les caselles, tenint en compta que la casella inicial compta com una més?
+Ara sembla que s'han duplicat les caselles per aconseguir ciberpunts. Recorda que només n'hi pot haver una per categoria i que ha de ser la confluència entre els braços i el cercle exterior!
+Quan llançam el dau, es mostren correctament les caselles on es pot situar la ciberfitxa però no es mostra el valor que ha sortit fins que s'ha respost la pregunta. Pots fer que es mostri el valor que ha sortir del dau abans de mostrar les caselles que es poden seleccionar?
+
+Encara no es compleix el requisit que no hi pot haver cap casella que tengui la mateixa categoria en cap dels possibles sentits de recorregut de les fitxes!
+Pots actualitzar el blueprint.md i el README.md sempre en català per reflectir tots els canvis realitats?
+Veig que no hem fet el desplegament de la icona de l'aplicació assets/logo.jpg. El podries fer incloent la plataforma Web?
